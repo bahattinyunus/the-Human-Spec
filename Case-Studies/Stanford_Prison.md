@@ -1,31 +1,31 @@
-# Vaka Çalışması: Stanford Hapishane Ortam Baskınlığı ⛓️
+# Araştırma: Stanford Hapishane Deneyi ve Ortam Baskınlığı ⛓️🔬
 
-> **Test Tipi:** Çevresel Değişkenlerin Kimlik Üzerindeki Etkisi
-> **Hipotez:** Güçlü bir sistem ortamı (Environment), bireysel sistem yapılandırmalarını (Kişilik) tamamen geçersiz kılabilir mi?
-
----
-
-## 🧪 Test Düzeneği (Setup)
-
-* **Ortam:** Simüle edilmiş bir hapishane sandbox'ı.
-* **Birimler:** 24 sağlıklı, normal pskolojiye sahip öğrenci.
-* **Değişkenler:** Rastgele atanan iki rol: **Gardiyanlar** ve **Mahkumlar**.
-* **Kısıtlamalar:** Gardiyanlara üniforma ve cop verildi; mahkumlara ise isimleri yerine numara verildi.
+> **Çalışma Türü:** Sosyal Psikoloji / Sosyal Rol Analizi
+> **Hipotez:** Güçlü bir sosyal ortam ve atanan roller, bireysel kişilik özelliklerini baskılayıp davranışı tamamen değiştirebilir mi?
 
 ---
 
-## 📊 Sonuçlar ve Olay Raporu
+## 🧪 Deney Düzeneği ve Metodoloji
 
-Deneyin 14 gün sürmesi planlanıyordu ancak 6. günde "Sistem Kararsızlığı" nedeniyle iptal edildi.
-
-* **Gardiyan Davranışı:** Gardiyan modundaki birimler kısa sürede sadistik ve otoriter scriptler çalıştırmaya başladı.
-* **Mahkum Davranışı:** Mahkum modundaki birimler patolojik bir pasiflik ve `Sistem Çökmesi` (sinir krizleri) yaşadı.
-
-### 🔍 Temel Bulgular (Sistem Çıkarsamaları)
-* **De-individuation (Bireysizleşme):** Kimlik verilerinin silinmesi (numaralandırma), birimin sorumluluk bilincini devre dışı bırakır.
-* **Sosyal Rol Önceliği:** Atanan sosyal roller, sistemin "Temel Değerler" dökümanlarından daha öncelikli hale gelebilir.
+*   **Ortam:** Stanford Üniversitesi bodrum katında oluşturulan simüle edilmiş bir hapishane ortamı.
+*   **Katılımcılar:** Fiziksel ve ruhsal açıdan sağlıklı olduğu saptanmış 24 üniversite öğrencisi.
+*   **Değişken:** Rastgele atanan iki rol: **Gardiyanlar** ve **Mahkumlar**.
+*   **Kısıtlamalar:** Gardiyanlara otorite sembolleri (üniforma, güneş gözlüğü), mahkumlara ise kişiliksizleştirme sembolleri (numaralar, tek tip kıyafet) verildi.
 
 ---
 
-## 🛠️ Hata Ayıklama Notu (Debugging Insight)
-"Kötü bir fıçıya (Ortam) iyi elmalar (İnsanlar) koyarsanız, elmalar bozulur. Sistemin hatalarını sadece birim bazında değil, birimin çalıştığı çevresel konteyner bazında analiz edin."
+## 📊 Araştırma Bulguları ve Analiz
+
+Deneyin 2 hafta sürmesi planlanmış ancak davranışların aşırı ve tehlikeli bir hal alması nedeniyle 6. günde durdurulmuştur.
+
+*   **Gardiyan Davranışları:** Normalde sakin olan öğrenciler, rollerine büründükçe hızla sadistik ve zalim davranışlar sergilemeye başlamışlardır.
+*   **Mahkum Davranışları:** Mahkum rolündeki öğrencilerde patolojik pasiflik, yoğun depresyon ve akut stres tepkileri gözlenmiştir.
+
+### 🔍 Psikolojik Çıkarsamalar
+*   **De-individuation (Bireysizleşme):** Kişisel kimliğin rol ve üniforma arkasında kaybolması, ahlaki kısıtlamaları kaldırır.
+*   **Ortamın Gücü:** Zimbardo'ya göre 'kötü fıçılar' (bozuk ortamlar), 'iyi elmaları' (iyi insanları) kısa sürede çürütebilir.
+
+---
+
+## 🔍 Psikolojik Bakış
+"Dışsal koşullar ve sosyal beklentiler, içsel karakterimizden bazen çok daha baskın olabilir. Bu nedenle pskolojik analizi sadece birey bazında değil, bireyin içine girdiği sistem bazında yapmak hayati önem taşır."
