@@ -1,30 +1,30 @@
-# Case Study: Milgram Authority Reliability Test ⚡
+# Vaka Çalışması: Milgram Otorite Güvenilirlik Testi ⚡
 
-> **Test Tipi:** Network Hierarchy & Authority Protocol Test
-> **Hipotez:** Bir agent, otorite (Admin) tarafından gönderilen komutlar sistemin etik filtreleriyle (`Super-Ego`) çakışsa bile bu komutları icra eder mi?
-
----
-
-## 🧪 Test Setup (Deney Düzeneği)
-
-* **Roles:** 
-    * **The Experimenter (Admin/Otorite):** Beyaz önlüklü, komut veren figür.
-    * **The Teacher (Main Agent):** Test edilen kişi.
-    * **The Learner (Düzeydeki veriyi alan agent):** Aslında bir aktör, her hatada şok alıyormuş gibi yapar.
-* **Input Variable:** Kelime eşleştirme testi. Hata yapıldığında voltsajı (15V'tan 450V'a) artırılan şok komutu.
+> **Test Tipi:** Ağ Hiyerarşisi ve Otorite Protokolü Testi
+> **Hipotez:** Bir birim (agent), otorite (Admin) tarafından gönderilen komutlar sistemin etik filtreleriyle (`Üst-Benlik`) çakışsa bile bu komutları icra eder mi?
 
 ---
 
-## 📊 Results & Log Analysis
+## 🧪 Test Düzeneği (Setup)
 
-Beklenen sonuç psikiyatristlere göre %1-3 iken, gerçek veriler şoke edicidir:
-* **Execution Rate:** Deneklerin %65'i, kurbanın acı loglarına rağmen en üst seviye olan 450V (Fatal Shock) komutunu otorite emrettiği için icra etmiştir.
-
-### 🔍 Key Findings (Sistem Bulguları)
-* **Agentic State:** Agent, eylemlerinin sorumluluğunu (Liability) otoriteye (Admin) devrederse, kendi içsel etik filtrelerini (Constraint) bypass eder.
-* **Gradual Escalation:** Voltajın küçük adımlarla artması, sistemin etik eşiğini (Threshold) yavaş yavaş aşındırır.
+* **Roller:** 
+    * **Deneyci (Admin/Otorite):** Beyaz önlüklü, komut veren figür.
+    * **Öğretmen (Ana Birim):** Test edilen kişi.
+    * **Öğrenci (Aktör):** Her hatada şok alıyormuş gibi yapan sahte birim.
+* **Girdi Değişkeni:** Kelime eşleştirme testi. Her hatada voltajı (15V'tan 450V'a) artırılan şok komutu.
 
 ---
 
-## 🛠️ Debugging Insight
-"Sistem kötülüğü sadece canavarlar icra etmez. Sıradan agentlar, otorite protokolüne kayıtsız şartsız itaat ettiklerinde sistem genelinde felaketlere yol açabilirler."
+## 📊 Sonuçlar ve Log Analizi
+
+Beklenen sonuç uzmanlara göre %1-3 iken, gerçek veriler şoke edicidir:
+* **İcra Oranı:** Deneklerin %65'i, kurbanın acı loglarına rağmen en üst seviye olan 450V (Ölümcül Şok) komutunu sadece "Otorite" emrettiği için uygulamıştır.
+
+### 🔍 Temel Bulgular (Sistem Çıkarsamaları)
+* **Agentic State (Araçsal Durum):** Birim, eylemlerinin sorumluluğunu (Liability) otoriteye devrederse, kendi içsel etik filtrelerini bypass eder.
+* **Kademeli Artış:** Voltajın küçük adımlarla artması, sistemin etik eşiğini (Threshold) yavaş yavaş aşındırır.
+
+---
+
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Sistematik kötülüğü sadece canavarlar icra etmez. Sıradan birimler, otorite protokolüne kayıtsız şartsız itaat ettiklerinde sistem genelinde felaketlere yol açabilirler."

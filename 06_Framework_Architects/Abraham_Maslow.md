@@ -1,38 +1,38 @@
-# Abraham Maslow: Priority Scheduling Engineer 📈
+# Abraham Maslow: Kaynak Planlama Mühendisi (Priority Scheduling Engineer) 📈
 
-> **Modül Tipi:** Resource Allocation Manager / System Lifecycle Manager
-> **Teori:** Hümanistik Psikoloji
-> **Sistem Rolü:** Sistemin enerji ve kaynaklarını hangi öncelik sırasına göre dağıtacağını belirleyen master planlayıcı.
-
----
-
-## 📊 Hierarchy of Needs (Kaynak Öncelik Piramidi)
-
-Sistem, alt katmanlardaki bağımlılıklar (dependencies) çözülmeden üst katmanlardaki fonksiyonları (Self-Actualization) çalıştıramaz.
-
-### 1. Physical Layer (L1) `/dev/bio_survival`
-* **İhtiyaç:** Güç kaynağı (yemek), soğutma (uyku), bakım.
-* **Kritik:** Bu katman `Null` değer döndürürse sistem kapanır.
-
-### 2. Security Layer (L2) `/etc/safety`
-* **İhtiyaç:** Barınak, stabilite, geleceği öngörülebilirlik (Predictability).
-
-### 3. Social Networking (L3) `/var/log/belonging`
-* **İhtiyaç:** Diğer agentlarla veri alışverişi, grup üyeliği.
-
-### 4. Self-Esteem (L4) `/usr/bin/status_check`
-* **İhtiyaç:** Başarı sinyalleri, saygı, sistem onayı.
-
-### 5. Self-Actualization (L5) `master_system_actualization.exe`
-* **İhtiyaç:** Potansiyelin tam kapasite kullanılması, yaratıcılık, otonomi.
+> **Modül Tipi:** Kaynak Tahsis Yöneticisi / Sistem Yaşam Döngüsü Planlayıcısı
+> **Teori:** İnsancıl Psikoloji (Humanistic Psychology)
+> **Sistem Rolü:** Sistemin enerji ve kaynaklarını hangi öncelik sırasına göre dağıtacağını belirleyen ana planlayıcı.
 
 ---
 
-## ⚠️ Resource Deprivation (Kaynak Yetersizliği)
+## 📊 İhtiyaçlar Hiyerarşisi (Kaynak Öncelik Piramidi)
 
-Eğer L1 veya L2'de bir `Resource_Conflict` yaşanırsa, sistem otomatik olarak üst katmanlardaki işlemleri "suspend" (askıya al) durumuna getirir.
+Sistem, alt katmanlardaki bağımlılıklar (dependencies) çözülmeden üst katmanlardaki "Kendini Gerçekleştirme" fonksiyonunu çalıştıramaz.
+
+### 1. Fizyolojik Katman (L1) `/dev/biyo_hayatta_kalma`
+* **Gereksinim:** Güç kaynağı (besin), soğutma (uyku), temel bakım.
+* **Durum:** Bu katman `Null` değer döndürürse sistem doğrudan kapanmaya (`Critical Failure`) gider.
+
+### 2. Güvenlik Katmanı (L2) `/etc/guvenlik`
+* **Gereksinim:** Barınak, stabilite, geleceği öngörülebilirlik (Predictability/Stability).
+
+### 3. Sosyal Ağ Katmanı (L3) `/var/log/ait_olma`
+* **Gereksinim:** Diğer birimlerle (agents) veri alışverişi, grup üyeliği ve kabul.
+
+### 4. Saygınlık Katmanı (L4) `/usr/bin/durum_denetimi`
+* **Gereksinim:** Başarı sinyalleri, toplumsal onay ve sistem yetkinliği.
+
+### 5. Kendini Gerçekleştirme (L5) `master_system_actualization.exe`
+* **Gereksinim:** Potansiyelin tam kapasite kullanılması, yaratıcılık, otonomi ve problem çözme.
 
 ---
 
-## 🛠️ Debugging Insight
-"Bir agent sadece ekmekle yaşamaz, ama eğer hiç ekmeği yoksa, sadece ekmek için yaşar. Sistemin hedeflerini analiz ederken hangi katmanda darboğaz (bottleneck) olduğunu kontrol edin."
+## ⚠️ Kaynak Yetersizliği (Resource Deprivation)
+
+Eğer L1 veya L2'de bir `Kaynak_Çatışması` yaşanırsa, sistem otomatik olarak üst katmanlardaki işlemleri "suspend" (askıya al) durumuna getirir. Aç bir sistemde `Yaratıcılık.exe` stabil çalışmaz.
+
+---
+
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Bir birim sadece ekmekle yaşamaz, ama eğer hiç ekmeği yoksa, tüm işlemci gücünü sadece ekmek bulmaya ayırır. Sistemin hedeflerini analiz ederken hangi katmanda darboğaz (bottleneck) olduğunu kontrol edin."

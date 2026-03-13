@@ -2,101 +2,64 @@
 
 # The-Human-Spec 🧠🔬
 
-> **Project Status:** In-Development (Reverse Engineering Phase)
-> **Target System:** Homo Sapiens v2026.03
-> **Objective:** Psikoloji disiplinini yapılandırılmış bir sistem dökümantasyonu gibi öğrenmek, insan davranışlarının mimarisini çözümlemek ve bu karmaşık sistemi "herkes için anlaşılır" bir teknik dile tercüme etmek.
+> **Proje Durumu:** Geliştirme Aşamasında (Tersine Mühendislik Fazı)
+> **Hedef Sistem:** Homo Sapiens v2026.03
+> **Motto:** "Understand the mind, master the system."
+
+---
 
 ## 📌 Vizyon: Neden Teknik Şartname?
 
-Psikoloji, çoğu zaman "soyut" bir kavram olarak algılanır. Ancak insan zihni de belirli girdileri (input) işleyen, belirli algoritmalara göre çıktı (output) üreten ve donanımsal (nörolojik) kısıtları olan muazzam bir sistemdir.
+İnsan zihni, çoğu zaman "soyut ve öngörülemez" bir kavram olarak algılanır. Ancak **The-Human-Spec**, zihnin de belirli girdileri (input) işleyen, belirli algoritmalara göre çıktılar (output) üreten ve donanımsal (nörolojik) kısıtları olan muazzam bir sistem olduğu gerçeğine dayanır.
 
-**The-Human-Spec**'in amacı:
-- **Öğrenmek:** Karmaşık psikolojik teorileri, bir yazılımcının sistem dökümantasyonunu okuduğu netlikte öğrenmek.
-- **Öğretmek:** Kavramları "hardware", "processing", "networking" gibi metaforlarla somutlaştırarak başkalarının da bu sistemi kolayca "debug" etmesini sağlamak.
-- **Sistemleştirmek:** Soyut teorileri, neden-sonuç illişkisi içinde mantıksal bir yapıya oturtmak.
-
----
-
-## 🎓 Learning & Teaching Methodology
-
-Bu proje sadece bir not defteri değil, aynı zamanda bir **Açık Akademi**'dir.
-
-### 🧩 Soyutlamayı Kaybetmeden Somutlaştırma
-Her psikolojik olgu, bu repoda bir "teknik modül" olarak ele alınır. 
-- Eğer bir **kaygı** (anxiety) durumundan bahsediyorsak, bu bir `Prediction Error` veya `Infinite Loop` olarak analiz edilir. 
-- Eğer **öğrenme**den bahsediyorsak, bu bir `Data Ingestion` ve `Cache Optimization` sürecidir.
-
-### 📺 İnteraktif Öğrenme: Premium Dashboard
-Öğrenme sürecini görselleştirmek için geliştirilen **[Premium Dashboard](dashboard/index.html)**, projenin "sunum" katmanıdır. Katmanlar arası geçiş yaparak, insan sisteminin modüllerini interaktif bir şekilde inceleyebilir, "boot" sequenceları ile sistemin nasıl ayağa kalktığını simüle edebilirsiniz.
+Bu projenin amacı:
+1.  **Sistem dökümantasyonu netliğinde öğrenmek:** Karmaşık psikolojik teorileri bir yazılımcının "Technical Spec" okuduğu netlikte kavramak.
+2.  **Metaforlarla Somutlaştırmak:** Kavramları "Hardware", "Processing", "Networking" gibi tanıdık terimlerle eşleştirerek zihni "debug" edilebilir kılmak.
+3.  **Açık Kaynak Akademi:** Psikoloji bilgisini, herkesin katkıda bulunabileceği yapılandırılmış bir müfredat haline getirmek.
 
 ---
 
+## 🏗️ Sistem Mimarisi (Müfredat Katmanları)
 
-## 🏗️ Sistem Mimarisi (Müfredat)
+Proje, insan işletim sistemini 7 ana katmanda inceler:
 
-Proje, psikoloji biliminin temel alt dallarını modüler bir yapıda inceler:
+### ⚙️ 1. Donanım Katmanı (Hardware Layer): Nöro-Psikoloji
+Sistemin fiziksel altyapısı. İşlemci (Beyin) ve veri yolu (Sinir Sistemi) analizi.
+*   **Neuro-Transmitters:** Dopamin, Serotonin (Sistem sinyalleri).
+*   **Brain Regions:** Amigdala (Firewall), Prefrontal Korteks (CPU/Mantık).
 
-### ⚙️ 1. Hardware Layer: Nöro-Psikoloji
+### 🧠 2. İşleme Katmanı (Core Engine): Bilişsel Psikoloji
+Bilgi işleme algoritmaları. Veri içeri nasıl alınır, nasıl saklanır ve nasıl geri çağrılır?
+*   **Attention Filters:** Hangi veri interrupt yaratır, hangisi ignore edilir?
+*   **Memory Management:** RAM (Çalışma belleği) ve Cold Storage (Uzun süreli bellek).
 
-Sistemin fiziksel katmanı. İşlemci (Beyin) ve veri yolu (Sinir Sistemi) analizi.
-
-* **Neuro-Transmitters:** Dopamin, Serotonin, Oksitosin (Sistem sinyalleri).
-* **Brain Regions:** Amigdala (Güvenlik/Firewall), Prefrontal Korteks (CPU/Mantık Merkezi).
-* **Bio-Feedback:** Vücudun zihne gönderdiği "error log"lar.
-
-### 🧠 2. Core Engine: Bilişsel Psikoloji
-
-Bilgi işleme algoritmaları. Veri nasıl içeri alınır ve nasıl saklanır?
-
-* **Attention Filters:** Hangi veri "interrupt" yaratır, hangisi ignore edilir?
-* **Memory Management:** RAM (Çalışma belleği) ve Cold Storage (Uzun süreli bellek) optimizasyonu.
-* **Decision Algorithms:** Sezgisel (Heuristics) vs. Analitik düşünme modelleri.
-
-### 🔄 3. Lifecycle Management: Gelişim Psikolojisi
-
+### 🔄 3. Yaşam Döngüsü (Lifecycle Management): Gelişim Psikolojisi
 Sistemin zaman içindeki versiyon güncellemeleri.
+*   **Initialization:** Çocukluk evreleri ve temel şemaların (base classes) oluşumu.
+*   **Legacy Code:** Çocukluktan kalan ve yetişkinlikte "bug" çıkaran eski kod kalıpları.
 
-* **Initialization:** Çocukluk evreleri ve temel şemaların (base classes) oluşumu.
-* **Update Cycles:** Ergenlik, yetişkinlik ve yaşlılık dönemindeki davranışsal değişiklikler.
-* **Legacy Code:** Çocukluktan gelen ve yetişkinlikte "bug" çıkaran kalıplar.
+### 📡 4. Ağ Protokolleri (Network Protocols): Sosyal Psikoloji
+Çoklu sistemlerin (Multi-agent systems) etkileşimi.
+*   **P2P Interaction:** Empati, ayna nöronlar ve sosyal uyum protokolleri.
+*   **Social Engineering:** Manipülasyon, ikna ve sosyal etki mekanizmaları.
 
-### 📡 4. Network Protocols: Sosyal Psikoloji
+### 🛠️ 5. Hata Giderme (Debugging & Patching): Klinik Psikoloji
+Sistem hatalarını iyileştirme ve optimizasyon.
+*   **Error Handling:** Anksiyete, depresyon ve travma yönetimi.
+*   **Refactoring:** CBT (Bilişsel Davranışçı Terapi) ile düşünce kalıplarını yeniden yazma.
 
-Çoklu sistemlerin (Multi-agent systems) birbirleriyle olan etkileşimi.
+### 🏛️ 6. Sistem Mimarları (Framework Architects)
+Psikoloji dünyasının "Baş Mühendisleri" ve kurdukları mimari ekoller.
+*   **Sigmund Freud:** Eskil Çekirdek (Bilinçaltı), ID/Ego/Superego.
+*   **Abraham Maslow:** Kaynak Planlama (İhtiyaçlar Hiyerarşisi).
+*   **Viktor Frankl:** Ana Direktif (Anlam Arayışı).
+*   **Jean Piaget:** Sistem Versiyonlama (Bilişsel Gelişim).
 
-* **P2P Interaction:** Empati, ayna nöronlar ve sosyal uyum.
-* **Social Engineering:** Manipülasyon, ikna ve sosyal etki mekanizmaları.
-* **Group Dynamics:** Sürü psikolojisi ve dağıtık sistemlerde karar alma.
-
-### 🛠️ 5. Debugging & Patching: Klinik Psikoloji
-
-Sistem hatalarını giderme ve optimizasyon.
-
-* **Error Handling:** Anksiyete, depresyon ve travma yönetimi.
-* **Refactoring:** Bilişsel Davranışçı Terapi (CBT) ile düşünce kalıplarını yeniden yazma.
-* **Stability Patches:** Stoacılık, farkındalık (mindfulness) ve öz-düzenleme teknikleri.
-
-### 🏗️ 6. Framework Architects: Ekoller ve İsimler
-
-Sistemin mimari temellerini atan baş mühendisler.
-
-* **Sigmund Freud:** Legacy Kernel (Bilinçaltı), ID/Ego/Superego katmanları.
-* **Carl Jung:** Shared Library (Kolektif Bilinçdışı) ve Archetype frameworkleri.
-* **B.F. Skinner:** I/O Determinism ve Behaviorism (Davranışçılık) geri bildirim döngüleri.
-* **Alfred Adler:** Social Interface (Aşağılık Kompleksi) ve sistem dengeleme.
-* **Abraham Maslow:** Priority Scheduling (İhtiyaçlar Hiyerarşisi) ve kaynak yönetimi.
-* **Viktor Frankl:** Core Directive (Anlam Arayışı) ve sistem sürekliliği.
-* **Carl Rogers:** System Acceptance (Koşulsuz Kabul) ve benlik tutarlılığı.
-* **Jean Piaget:** Cognitive Versioning (Gelişim Evreleri) ve Şema mimarisi.
-
-### 🧬 7. Specialized Modules: Özel Alanlar
-
-Belirli senaryolar için özelleşmiş sistem modülleri.
-
-* **Evolutionary Psychology:** Atasal "Legacy Code" ve hayatta kalma optimizasyonları.
-* **Cognitive Psychology:** Bilgi işleme (Input-Output) ve bellek yönetimi.
-* **Positive Psychology:** Well-being "Buff"ları ve sistem performans optimizasyonu.
-* **Existential Psychology:** Root Protocols (Ölüm, Özgürlük, Anlam) ve varoluşsal hata yönetimi.
+### 🧬 7. Özel Modüller (Specialized Modules)
+Belirli senaryolar için özelleşmiş sistem kütüphaneleri.
+*   **Evrimsel Psikoloji:** Atasal "Legacy Code" ve hayatta kalma optimizasyonları.
+*   **Pozitif Psikoloji:** Sistem optimizasyonu ve "Performance Buff"ları.
+*   **Varoluşçu Psikoloji:** Kök Protokoller (Ölüm, Özgürlük) ve varoluşsal hata yönetimi.
 
 ---
 
@@ -104,23 +67,36 @@ Belirli senaryolar için özelleşmiş sistem modülleri.
 
 ```bash
 The-Human-Spec/
-├── 01_Hardware/            # Nörobilim ve Biyolojik temeller
-├── 02_Processing/          # Bilişsel süreçler (Algı, Bellek, Karar)
-├── 03_Versions/            # Gelişimsel evreler ve yaş döngüleri
-├── 04_Networking/          # Sosyal dinamikler ve grup davranışları
-├── 05_Maintenance/         # Psikolojik sağlığı koruma ve iyileştirme
+├── 01_Hardware/            # Biyolojik temeller ve donanım
+├── 02_Processing/          # Veri işleme ve bilişsel süreçler
+├── 03_Versions/            # Gelişimsel döngüler ve versiyonlama
+├── 04_Networking/          # Sosyal protokoller ve ağ dinamikleri
+├── 05_Maintenance/         # Hata giderme ve bakım (Terapi)
 ├── 06_Framework_Architects/ # Büyük isimler ve ekoller
-├── 07_Specialized_Modules/  # Evrimsel, Bilişsel, Pozitif psikoloji vb.
-├── Case-Studies/           # Milgram, Stanford gibi meşhur deneyler
-└── Specs_Glossary.md       # Psikolojik terimlerin teknik sözlüğü
-
+├── 07_Specialized_Modules/  # Özelleşmiş alt alanlar
+├── Case-Studies/           # Milgram, Stanford gibi sistem testleri
+├── dashboard/               # İnteraktif görselleştirme katmanı
+└── Specs_Glossary.md       # Teknik-Psikolojik terimler sözlüğü
 ```
 
 ---
 
-## 🚀 Katkıda Bulunma (Learning Process)
+## 🚀 Nasıl Katkıda Bulunurum? (Public Learning)
 
-Bu repo bir **"Learn-in-Public"** projesidir. Her yeni öğrenilen teori, bir `.md` dosyası olarak ilgili klasöre "commit" edilir. Amaç, psikoloji disiplinini bir yazılımcı titizliğiyle, her kavramın neden-sonuç ilişkisini kurarak öğrenmektir.
+Bu bir **"Public Learning"** projesidir. Her yeni öğrenilen psikolojik teori, bir `.md` dosyası olarak ilgili klasöre "commit" edilir. Katkı sağlarken şu kurallara dikkat edin:
+1.  **Teknik Dil:** Psikolojik kavramı anlatırken mutlaka bir teknoloji metaforu (RAM, Kernel, Latency vb.) kullanın.
+2.  **Modülerlik:** Her konuyu bağımsız bir modül gibi ele alın.
+3.  **Hata Ayıklama:** Her dökümanın sonuna bir "Debugging Insight" (Hata Ayıklama Notu) ekleyin.
+
+---
+
+## 🗺️ Yol Haritası (Roadmap)
+
+- [x] Temel donanım ve yazılım katmanlarının oluşturulması.
+- [x] Büyük Mimarlar (Freud, Maslow vb.) serisinin tamamlanması.
+- [ ] İnteraktif Dashboard'un veriyle beslenmesi.
+- [ ] "İnsan Algoritmaları" için bir Unit Test kütüphanesi (Case Studies genişletme).
+- [ ] Community Edition: Topluluktan gelen pskolojik "patch"lerin merge edilmesi.
 
 ---
 
@@ -130,5 +106,4 @@ Bu repo bir **"Learn-in-Public"** projesidir. Her yeni öğrenilen teori, bir `.
 
 ---
 
-**"Understand the mind, master the system."**
-
+**"Sistemi anla, zihnini özgürleştir."**

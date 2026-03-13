@@ -1,31 +1,31 @@
-# Viktor Frankl: Core Purpose & Directive Architect ⚓
+# Viktor Frankl: Ana Amaç ve Direktif Mimarı (Core Purpose & Directive Architect) ⚓
 
-> **Modül Tipi:** Core Directive Engine / Persistence Handler
-> **Teori:** Logoterapi (Meaning-Oriented Therapy)
-> **Sistem Rolü:** Sistemin en zorlu şartlar (Crash conditions) altında bile "Runtime"da kalmasını sağlayan `Will-to-Meaning` (Anlam İstenci) modülü.
+> **Modül Tipi:** Temel Direktif Motoru / Süreklilik Yöneticisi
+> **Teori:** Logoterapi (Anlam Odaklı Terapi)
+> **Sistem Rolü:** Sistemin en zorlu şartlar (Crash conditions) altında bile çalışma zamanında (Runtime) kalmasını sağlayan "Anlam İstenci" (Will-to-Meaning) modülü.
 
 ---
 
-## 🧩 Logotherapy (Anlam Yazılımı)
+## 🧩 Logoterapi (Anlam Yazılımı)
 
-Frankl'a göre, sistem bir `Fatal_Error` (aşırı acı, kayıp) aldığında onu ayakta tutan şey donanımsal güç değil, sistemin `Core_Purpose` (Ana Amaç) değişkenidir.
+Frankl'a göre, sistem bir `Ölümcül_Hata` (aşırı acı, kayıp) aldığında onu ayakta tutan şey donanımsal güç değil, sistemin `Ana_Amac` (Core Purpose) değişkenidir.
 
-### 1. Meaning Seek (`Find_Purpose()` API)
+### 1. Anlam Arayışı (`Find_Purpose()` API)
 Sistem üç yolla anlam verisi üretebilir:
-* **Work/Creation:** Bir çıktı üretmek, bir eser bırakmak.
-* **Experience/Love:** Bir veri paketini (doğa, sanat, insan) tam kapasiteyle duyumsamak.
-* **Attitude:** Değiştirilemez bir 'Crash' durumuna karşı takınılan tavır (En asil sistem modu).
+* **Eser/Yaratım:** Bir çıktı üretmek, bir iz bırakmak.
+* **Deneyim/Sevgi:** Bir veri paketini (doğa, sanat, insan) tam kapasiteyle duyumsamak.
+* **Tavır:** Değiştirilemez bir "Sistem Çökmesi" durumuna karşı takınılan onurlu duruş.
 
 ---
 
-## ⛓️ Tragedy Persistence (Tragic Optimism)
+## ⛓️ Trajik İyimserlik (Tragedy Persistence)
 
-Sistemin üç kaçınılmaz hatası (Losing Connectivity, Guilt, Death) karşısında bile `Optimize_Output` modunu koruyabilmesi.
+Sistemin üç kaçınılmaz hatası (Ağ kaybı, Suçluluk, Ölüm) karşısında bile `Optimize_Output` modunu koruyabilmesi.
 
-* **Bug:** "Neden yaşıyorum?" (Existential Vacuum).
-* **Fix:** Dışarıdan bir patch gelmesini beklemek yerine, sistemin kendisinin yaşamın sorularına cevap veren bir "Function" olması.
+* **Bug:** "Neden yaşıyorum?" (Varoluşsal Boşluk).
+* **Fix:** Dışarıdan bir yama gelmesini beklemek yerine, sistemin kendisinin yaşamın sorularına cevap veren bir "Fonksiyon" olması.
 
 ---
 
-## 🛠️ Debugging Insight
-"Yaşamın anlamı nedir sorusu yanlış bir querydir. Asıl soru: 'Yaşam benden ne bekliyor?'dur. Agent sorgulayan değil, sorgulanandır."
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Yaşamın anlamı nedir sorusu yanlış bir sorgudur (query). Asıl soru: 'Yaşam benden ne bekliyor?'dur. Her birim yaşam tarafından sorgulanandır."

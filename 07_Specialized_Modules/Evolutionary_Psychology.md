@@ -1,32 +1,32 @@
-# Evolutionary Psychology: Legacy Optimization Module 🦖
+# Evrimsel Psikoloji: Eskil Optimizasyon Modülü (Legacy Optimization Module) 🦖
 
-> **Modül Tipi:** Hardcoded Optimization / Legacy Survival Code
-> **Sistem Rolü:** Türün hayatta kalması ve üremesi için binlerce yıl boyunca optimize edilmiş "Default Configuration" ayarları.
+> **Modül Tipi:** Donanımsal Optimizasyon / Eskil Hayatta Kalma Kodu
+> **Sistem Rolü:** Türün hayatta kalması ve üremesi için binlerce yıl boyunca optimize edilmiş "Varsayılan Yapılandırma" (Default Config) ayarları.
 
 ---
 
-## 💾 Hardcoded Algorithms (Genetik Kodlama)
+## 💾 Donanımsal Algoritmalar (Genetik Kodlama)
 
 Evrimsel psikolojiye göre, zihnimiz boş bir disk (tabula rasa) değil, önceden yüklenmiş (pre-installed) hayatta kalma script'leri ile doludur.
 
-### 1. Survival.sh (Hayatta Kalma Maskeleri)
-* **Fear of Snakes/Spiders:** Atasal çevrelerden gelen `Security_Threat` tanımlamaları.
-* **Neophobia:** Bilinmeyen veri paketlerine (yeni yiyecekler, yabancılar) karşı `Low_Trust` önbelleği.
+### 1. HayattaKalma.sh (Survival Scripts)
+* **Korku Protokolleri:** Yılan, örümcek veya yükseklik gibi kadim `Tehdit_Tanımlamaları`.
+* **Yabancı Korkusu (Neophobia):** Bilinmeyen veri paketlerine (yeni yiyecekler, yabancı sistemler) karşı `Düşük_Güven` önbelleği.
 
-### 2. Social_Status.service (Sıralama Algoritması)
-* **Status Seeking:** Grubun "Master Node"u olma veya yüksek hiyerarşide kalma isteği (Kaynaklara öncelikli erişim).
-* **Gossip:** Ağdaki diğer agentların güvenilirliğini (`Reputation_Score`) takip eden dağıtık bir veritabanı.
+### 2. SosyalStatu.service (Sıralama Algoritması)
+* **Statü Arayışı:** Grubun "Master Node"u olma veya yüksek hiyerarşide kalma isteği (Kaynaklara öncelikli erişim).
+* **Dedikodu (Gossip):** Ağdaki diğer agentların güvenilirliğini (`İtibar_Puanı`) takip eden dağıtık bir veritabanı yönetimi.
 
 ---
 
-## 🛠️ Debugging "Mismatch Theory" (Sürüm Uyumsuzluğu)
+## 🛠️ "Sürüm Uyumsuzluğu" Hatası (Mismatch Theory)
 
-Sistemin en büyük hataları, "Çayır Sürümü" (Savannah v1.0) için yazılmış kodların, "Modern Şehir Sürümü" (Modern Era v2026) donanımında çalıştırılmasından kaynaklanır.
+Sistemin en büyük hataları, "Çayır Sürümü" (Savannah v1.0) için yazılmış kodların, "Modern Çağ v2026" donanımında çalıştırılmasından kaynaklanır.
 
 * **Bug:** Şekerli gıdalara aşırı talep (Eskiden kıttı, şimdi her yerde).
-* **Fix:** Manuel override (İrade) gerektirir, çünkü kernel hala eski optimizasyonu kullanıyor.
+* **Fix:** Manuel müdahale (İrade) gerektirir, çünkü kernel hala eski optimizasyonu kullanıyor.
 
 ---
 
-## 🛠️ Debugging Insight
-"Mevcut bir davranışı anlamak için `Git blame` yapmanız gerekir. Bu kod hangi atanızın hayatta kalmasını sağladı?"
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Mevcut bir davranışı anlamak için `Git blame` yapmanız gerekir. Bu kod hangi atanızın sisteminin çökmesini engelledi ve hayatta kalmasını sağladı?"

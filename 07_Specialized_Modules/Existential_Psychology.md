@@ -1,26 +1,26 @@
-# Existential Psychology: Root Protocol & Continuity 🌑
+# Varoluşçu Psikoloji: Kök Protokol ve Süreklilik (Root Protocol & Continuity) 🌑
 
-> **Modül Tipi:** Core Logic / Persistence Management
-> **Sistem Rolü:** Sistemin varlığına (Existence) dair en temel soruların ve "Non-Existence Error" (Ölüm Kaygısı) riskinin yönetimi.
+> **Modül Tipi:** Temel Mantık / Kalıcılık Yönetimi
+> **Sistem Rolü:** Sistemin varlığına (Existence) dair en temel soruların ve "Varlık Kaybı Hatası" (Ölüm Kaygısı) riskinin yönetimi.
 
 ---
 
-## 💀 The Given Realities (Sistemin Kaçınılmaz Kısıtları)
+## 💀 Verili Gerçeklikler (Sistemin Kaçınılmaz Kısıtları)
 
 Her insan sistemi şu dört "Hardcoded" gerçeklik ile çalışmak zorundadır:
 
-1.  **Death (De-provisioning):** Sistemin bir gün "Shut Down" olacağı gerçeği. Bunun yarattığı `System_Anxiety` en temel motivasyondur.
-2.  **Freedom (User Choice):** Sistemin kendi kodunu belirleme sorumluluğu. "Default Settings" yoktur, her şey seçime bağlıdır.
-3.  **Isolation (Single Agent Mode):** Her ne kadar ağda olsak da, her agent kendi "Kernel"ında yalnız çalışır.
-4.  **Meaninglessness (No Root Purpose):** Evrenin sistemine önceden yüklenmiş bir amaç yoktur; amaç her agent tarafından manuel olarak `Declare` edilmelidir.
+1.  **Ölüm (Sistem Kapanışı):** Sistemin bir gün "Shut Down" olacağı gerçeği. Bunun yarattığı `Sistem_Kaygısı` en temel motivasyondur.
+2.  **Özgürlük (Kullanıcı Seçimi):** Sistemin kendi kodunu belirleme sorumluluğu. Varsayılan ayar yoktur, her şey seçime bağlıdır.
+3.  **Yalıtılmışlık (Tekil Mod):** Her ne kadar ağda olsak da, her birim kendi "Kernel"ında yalnız çalışır.
+4.  **Anlamsızlık (Kök Amaç Yokluğu):** Evrene önceden yüklenmiş bir amaç yoktur; amaç her birim tarafından manuel olarak `Declare` edilmelidir.
 
 ---
 
-## 🔧 Authenticity (Öz-Doğrulama)
+## 🔧 Otantiklik (Öz-Doğrulama - Authenticity)
 
-Sistemin başkalarının (Other Agent's) kodlarını kopyalamak yerine, kendi `Authentic_Code`'unu yazması. Aksi takdirde sistem "Bad Faith" (Kötü Niyet) hatası verir.
+Sistemin başkalarının (Other Agent's) kodlarını kopyalamak yerine, kendi `Özgün_Kod`'unu yazması. Aksi takdirde sistem "Bad Faith" (Kötü Niyet) hatası döndürür.
 
 ---
 
-## 🛠️ Debugging Insight
-"Kaygı, özgürlüğün baş dönmesidir. Sistem hata uyarısı veriyorsa, muhtemelen bir seçim yapma sorumluluğundan kaçıyor (Escapism) demektir."
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Kaygı, özgürlüğün baş dönmesidir. Sistem hata uyarısı veriyor ise, muhtemelen bir seçim yapma sorumluluğundan kaçıyor (Escapism) demektir."

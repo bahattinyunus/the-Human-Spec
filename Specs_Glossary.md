@@ -1,21 +1,24 @@
-# The-Human-Spec: Glossary & Technical Mappings 📖
+# The-Human-Spec: Terimler Sözlüğü & Teknik Eşleşmeler 📖
 
-Bu sözlük, psikolojik kavramları "The-Human-Spec" projesinde kullanılan teknik karşılıklarıyla eşleştirir.
+Bu sözlük, psikolojik kavramları "The-Human-Spec" projesinde kullanılan teknik karşılıklarıyla eşleştirir. Öncelik Türkçeleştirilmiş terminolojidedir.
 
-| Psikolojik Kavram | Teknik Karşılık (Metofor) | Açıklama |
+| Psikolojik Kavram (TR) | Teknik Karşılık (Metafor) | Teknik Açıklama |
 | :--- | :--- | :--- |
-| **Bilinçaltı (Unconscious)** | `Legacy Kernel / Background Process` | Kullanıcının doğrudan erişemediği ancak sistemi yöneten kök süreçler. |
-| **Biliş (Cognition)** | `Data Processing` | Bilginin alınması, işlenmesi ve anlamlandırılması süreci. |
-| **Bellek (Memory)** | `Storage Management` | Verilerin RAM (Kısa süreli) ve Disk (Uzun süreli) arasında aktarımı. |
-| **Savunma Mekanizmaları** | `Security Patches / Firewalls` | Sistem kaygısı (Anxiety) durumunda devreye giren otomatik koruma scriptleri. |
-| **Dopamin / Serotonin** | `System Signals / Interrupts` | Donanım seviyesinde iletilen ödül ve stabilite sinyalleri. |
-| **Öğrenme (Learning)** | `Data Ingestion / Feature Engineering` | Yeni verilerin mevcut veri yapılarına (Schemas) entegre edilmesi. |
-| **Travma (Trauma)** | `Corrupted Data / Disk Error` | Sistemin işleyemediği ve sürekli 'error log' üreten ağır veri paketleri. |
-| **Kişilik (Personality)** | `System Configuration (Config.sys)` | Sistemin varsayılan tepki ve davranış kalıpları toplamı. |
-| **Arketip (Archetype)** | `Base Classes / Templates` | Kolektif kütüphanede (Collective Unconscious) bulunan ortak nesne şablonları. |
-| **Nevroz (Neurosis)** | `Infinite Loop / Process Hang` | Sistemin çözemediği bir çatışma nedeniyle sürekli aynı hatayı üretmesi. |
-| **Empati (Empathy)** | `P2P Connection / Mirroring` | İki bağımsız sistemin veri paketlerini senkronize etme yeteneği. |
-| **İrade (Will)** | `Manual Override / Priority Task` | Otomatik süreçleri durdurup sisteme manuel komut verme yetisi. |
+| **Bilinçdışı** | `Eskil Çekirdek (Legacy Kernel)` | Sistemin doğrudan erişilemeyen, arka planda çalışan kök süreçleri. |
+| **Biliş** | `Veri İşleme (Data Processing)` | Veriyi alma, kodlama ve anlamlandırma algoritmaları. |
+| **Bellek** | `Depolama Yönetimi (Storage)` | RAM (Kısa Süreli) ve Disk (Uzun Süreli) veri döngüsü. |
+| **Savunma Mekanizmaları** | `Güvenlik Yamaları (Security Patches)` | Kaygı (Anxiety) durumunda devreye giren otomatik "firewall" scriptleri. |
+| **Nörotransmitterler** | `Sistem Sinyalleri (Interrupts)` | Donanım seviyesinde iletilen biyo-kimyasal veri paketleri. |
+| **Öğrenme** | `Veri Alımı (Data Ingestion)` | Yeni verilerin mevcut veri yapılarına (Schemas) entegrasyonu. |
+| **Travma** | `Bozuk Veri / Disk Hatası` | Sistemin işleyemediği ve sürekli "error log" üreten ağır hasarlı dosyalar. |
+| **Kişilik** | `Sistem Konfigürasyonu (Config.sh)` | Sistemin varsayılan tepki ve davranış kalıpları toplamı. |
+| **Arketip** | `Temel Sınıflar (Base Classes)` | Ortak kütüphanedeki (Kolektif Bilinçdışı) evrensel nesne şablonları. |
+| **Nevroz** | `Sonsuz Döngü (Infinite Loop)` | Çözülemeyen çatışmalar nedeniyle sistemin sürekli aynı hatayı dönmesi. |
+| **Empati** | `P2P Bağlantısı (Peering)` | İki sistemin veri paketlerini ve durumlarını (State) senkronize etme yetisi. |
+| **İrade** | `Manuel Geçersiz Kılma (Override)` | Otomatik süreçleri durdurup sisteme manuel komut verme yetkisi. |
+| **Şema** | `Veri Şablonu (Data Template)` | Bilginin organize edildiği zihinsel nesne tanımları. |
+| **Benlik Tutarlılığı** | `Sistem Bütünlüğü (Integirty)` | İdeal ve gerçek yapılandırma arasındaki uyum durumu. |
+| **Koşulsuz Kabul** | `Açık Erişim Protokolü` | Sistemin yargılanmadan (firewall engeli olmadan) kabul edildiği çalışma ortamı. |
 
 ---
-"Understand the mapping, master the translation." 🗝️
+"Dili anla, sistemi yönet." 🗝️

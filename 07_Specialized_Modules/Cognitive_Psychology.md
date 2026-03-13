@@ -1,38 +1,38 @@
-# Cognitive Psychology: Information Processing Layer 🧠💻
+# Bilişsel Psikoloji: Bilgi İşleme Katmanı (Information Processing Layer) 🧠💻
 
-> **Modül Tipi:** Core Data Processor / Algorithm Manager
+> **Modül Tipi:** Temel Veri İşlemcisi / Algoritma Yöneticisi
 > **Teori:** Bilgi İşleme Kuramı (Information Processing Theory)
 > **Sistem Rolü:** Girdilerin (Input) nasıl algılandığı, şifrelendiği (Encoding), depolandığı ve geri çağrıldığı (Retrieval) süreçlerinin yönetimi.
 
 ---
 
-## 📥 Data Ingestion Flow (Bilgi Akışı)
+## 📥 Veri Alım Akışı (Data Ingestion Flow)
 
 Sistem veriyi şu aşamalardan geçirerek işler:
 
-### 1. Sensory Register (Buffer Zone)
-* **Kapasite:** Çok geniş ama süre çok kısa (ms bazlı).
-* **Görev:** Ham veriyi (ışık, ses) dijital sinyallere çevirmek. Sadece dikkat edilen veri bir üst katmana geçer.
+### 1. Duyusal Kayıt (Tampon Bölge - Buffer Zone)
+* **Kapasite:** Çok geniş ama süre çok kısa (milisaniye bazlı).
+* **Görev:** Ham fiziksel veriyi (ışık, ses) dijital sinyallere çevirmek. Sadece "Dikkat" filtresinden geçen veri bir üst katmana aktarılır.
 
-### 2. Working Memory (RAM)
-* **Kapasite:** Sınırlı (Magic Number 7±2).
-* **Durum:** Veri burada aktif olarak işlenir. `Maintenance Rehearsal` (döngüsel tekrar) yapılmazsa veri `Trash` olur.
+### 2. Çalışma Belleği (RAM)
+* **Kapasite:** Sınırlı (Sihirli Sayı 7±2).
+* **Durum:** Veri burada aktif olarak işlenir. Eğer `Tekrar_Döngüsü` çalıştırılmazsa veri kısa sürede silinir (Trash).
 
-### 3. Long-Term Memory (Cold Storage)
-* **Kapasite:** Sınırsız.
-* **Organizasyon:** Veriler `Schemas` (Veri Yapıları) ve `Semantics` (Anlam Ağları) şeklinde saklanır.
-
----
-
-## 🛠️ System Algorithms: Schemas & Scripts
-
-Zihin, veriyi boş saklamak yerine şablonlar kullanır.
-
-* **Schema:** Bir nesne veya kavram hakkındaki "Class Definition". (Örn: "Kuş" sınıfı; kanatlıdır, uçar, gagası vardır).
-* **Assimilation:** Yeni veriyi mevcut bir `Class` içine eklemek.
-* **Accommodation:** Yeni veri mevcut sınıflara uymuyorsa, yeni bir `Class` oluşturmak veya mevcut olanı `Update` etmek.
+### 3. Uzun Süreli Bellek (Depolama - Cold Storage)
+* **Kapasite:** Teoriye göre sınırsız.
+* **Organizasyon:** Veriler `Şemalar` (Veri Yapıları) ve `Anlamsal Ağlar` şeklinde organize edilerek saklanır.
 
 ---
 
-## 🛠️ Debugging Insight
-"Data Retrieval (Hatırlama) hataları genellikle verinin silinmesinden değil, yanlış `Indexing` (kodlama) yapılmasından veya `Path` (ipucu) kaybından kaynaklanır."
+## 🛠️ Sistem Algoritmaları: Şemalar ve Uyumsama
+
+Zihin, veriyi kaotik saklamak yerine şablonlar (Templates) kullanır.
+
+* **Şema:** Bir nesne veya kavram hakkındaki "Class Definition" (Sınıf Tanımı). (Örn: "Kitap" sınıfı; sayfaları vardır, okunur, bilgi içerir).
+* **Özümleme (Assimilation):** Yeni veriyi mevcut bir `Class` içine enjekte etmek.
+* **Uyumsama (Accommodation):** Yeni veri mevcut sınıflara uymuyorsa, yeni bir `Class` oluşturmak veya mevcut olanı `Update` etmek.
+
+---
+
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Veri Geri Çağırma (Hatırlama) hataları genellikle verinin tamamen silinmesinden değil, yanlış `Indexing` (kodlama) yapılmasından veya `Path` (ipucu) kaybından kaynaklanır. Doğru sorguyu (query) göndermeden veriye ulaşamazsınız."

@@ -1,41 +1,41 @@
-# Sigmund Freud: The Legacy Kernel Architect 🎩
+# Sigmund Freud: Eskil Çekirdek Mimarı (Legacy Kernel Architect) 🎩
 
-> **Modül Tipi:** Core System Kernel / Background Process Manager
-> **Teori:** Psikanaliz (Psychodynamics)
-> **Sistem Rolü:** Bilinçaltı süreçlerin (Unconscious) yönetimi ve temel itkilerin (ID) kernel düzeyinde kontrolü.
+> **Modül Tipi:** Çekirdek Arkaplan Süreç Yöneticisi
+> **Teori:** Psikanaliz (Psikodinamik Yaklaşım)
+> **Sistem Rolü:** Bilinçdışı (Unconscious) süreçlerin yönetimi ve temel itkilerin (ID) kernel düzeyinde kontrolü.
 
 ---
 
-## 🏗️ Mimari Yapı: Üç Katmanlı Kernel
+## 🏗️ Mimari Yapı: Üç Katmanlı Çekirdek
 
 Freud'un modeli, sistemi üç ana katmana ayırır:
 
-### 1. The ID (`/dev/raw_impulses`)
+### 1. Alt Benlik / ID (`/dev/ham_itkiler`)
 * **Fonksiyon:** Ham veri ve enerji kaynağı.
 * **Algoritma:** Haz İlkesi (Pleasure Principle).
-* **Durum:** Mantıksız, zamansız ve tamamen "istek" odaklı. Sistemin en alt katmanı.
+* **Durum:** Mantıksız, zamansız ve tamamen "istek" odaklı. Sistemin en alt, kısıtlanmamış katmanı.
 
-### 2. The EGO (`/usr/bin/logic_and_reality`)
-* **Fonksiyon:** Sistemin dış dünyayla etkileşime giren arayüzü.
+### 2. Benlik / EGO (`/usr/bin/mantık_ve_gerçeklik`)
+* **Fonksiyon:** Sistemin dış dünyayla etkileşime giren ana arayüzü.
 * **Algoritma:** Gerçeklik İlkesi (Reality Principle).
-* **Görev:** ID'nin ham isteklerini, Super-Ego'nun kısıtlamaları ve dış dünyanın gerçekliği arasında dengelemek (Dengeleyici modül).
+* **Görev:** ID'nin ham isteklerini, Üst-Benlik'in (Super-Ego) kısıtlamaları ve dış dünyanın gerçekliği arasında dengelemek.
 
-### 3. The SUPER-EGO (`/etc/security/policies`)
+### 3. Üst Benlik / SUPER-EGO (`/etc/security/etik_politikalar`)
 * **Fonksiyon:** Güvenlik politikaları ve etik standartlar.
-* **Kaynak:** Ebeveyn ve toplumsal "kod"ların içselleştirilmiş hali.
-* **Eylem:** Hatalı davranışlarda `Guilt.service` üzerinden sistem uyarısı verir.
+* **Kaynak:** Ebeveyn ve toplumsal "kod"ların içselleştirilmiş dökümantasyonu.
+* **Eylem:** Hatalı davranışlarda `Suçluluk.service` üzerinden sistem uyarısı basar.
 
 ---
 
-## 🛡️ Defense Mechanisms (Sistem Savunma Protokolleri)
+## 🛡️ Savunma Mekanizmaları (Sistem Güvenlik Protokolleri)
 
-Sistem bir `Anxiety` hatası aldığında, Ego otomatik olarak şu yamaları siber savunma olarak devreye sokar:
+Sistem bir `Anksiyete` (Kaygı) hatası aldığında, Ego otomatik olarak şu yamaları siber savunma olarak devreye sokar:
 
-* **Repression (Bastırma):** Bozuk veri paketlerini bilinçaltı diskine (unconscious storage) kilitlemek.
-* **Projection (Yansıtma):** Kendi içsel hata kodlarını başka bir sistemin hatasıymış gibi raporlamak.
-* **Sublimation (Yüceltme):** Ham impulsları toplumsal olarak yararlı fonksiyonlara (art, work) "re-route" etmek.
+* **Bastırma (Repression):** Bozuk veri paketlerini bilinçdışı diskine (`/hidden/unconscious`) kilitlemek.
+* **Yansıtma (Projection):** Kendi içsel hata kodlarını başka bir sistemin hatasıymış gibi raporlamak.
+* **Yüceltme (Sublimation):** Ham impulsları toplumsal olarak yararlı fonksiyonlara (sanat, iş) "re-route" etmek.
 
 ---
 
-## 🛠️ Debugging Insight
-"Rüyalar, bilinçaltı sisteminin `dump` dosyalarıdır. Onları analiz etmek, root seviyesindeki sorunları anlamanızı sağlar."
+## 🛠️ Hata Ayıklama Notu (Debugging Insight)
+"Rüyalar, bilinçdışı sisteminin `dump` dosyalarıdır. Onları analiz etmek, root seviyesindeki (Childhood logs) sorunları anlamanızı sağlar."
