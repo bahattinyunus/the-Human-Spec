@@ -76,6 +76,28 @@ Sistem hatalarını giderme ve optimizasyon.
 * **Refactoring:** Bilişsel Davranışçı Terapi (CBT) ile düşünce kalıplarını yeniden yazma.
 * **Stability Patches:** Stoacılık, farkındalık (mindfulness) ve öz-düzenleme teknikleri.
 
+### 🏗️ 6. Framework Architects: Ekoller ve İsimler
+
+Sistemin mimari temellerini atan baş mühendisler.
+
+* **Sigmund Freud:** Legacy Kernel (Bilinçaltı), ID/Ego/Superego katmanları.
+* **Carl Jung:** Shared Library (Kolektif Bilinçdışı) ve Archetype frameworkleri.
+* **B.F. Skinner:** I/O Determinism ve Behaviorism (Davranışçılık) geri bildirim döngüleri.
+* **Alfred Adler:** Social Interface (Aşağılık Kompleksi) ve sistem dengeleme.
+* **Abraham Maslow:** Priority Scheduling (İhtiyaçlar Hiyerarşisi) ve kaynak yönetimi.
+* **Viktor Frankl:** Core Directive (Anlam Arayışı) ve sistem sürekliliği.
+* **Carl Rogers:** System Acceptance (Koşulsuz Kabul) ve benlik tutarlılığı.
+* **Jean Piaget:** Cognitive Versioning (Gelişim Evreleri) ve Şema mimarisi.
+
+### 🧬 7. Specialized Modules: Özel Alanlar
+
+Belirli senaryolar için özelleşmiş sistem modülleri.
+
+* **Evolutionary Psychology:** Atasal "Legacy Code" ve hayatta kalma optimizasyonları.
+* **Cognitive Psychology:** Bilgi işleme (Input-Output) ve bellek yönetimi.
+* **Positive Psychology:** Well-being "Buff"ları ve sistem performans optimizasyonu.
+* **Existential Psychology:** Root Protocols (Ölüm, Özgürlük, Anlam) ve varoluşsal hata yönetimi.
+
 ---
 
 ## 📂 Dosya Yapısı
@@ -87,7 +109,9 @@ The-Human-Spec/
 ├── 03_Versions/            # Gelişimsel evreler ve yaş döngüleri
 ├── 04_Networking/          # Sosyal dinamikler ve grup davranışları
 ├── 05_Maintenance/         # Psikolojik sağlığı koruma ve iyileştirme
-├── Case-Studies/           # Tarihteki meşhur psikoloji deneyleri
+├── 06_Framework_Architects/ # Büyük isimler ve ekoller
+├── 07_Specialized_Modules/  # Evrimsel, Bilişsel, Pozitif psikoloji vb.
+├── Case-Studies/           # Milgram, Stanford gibi meşhur deneyler
 └── Specs_Glossary.md       # Psikolojik terimlerin teknik sözlüğü
 
 ```
