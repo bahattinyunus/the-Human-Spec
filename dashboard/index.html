@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The-Human-Spec Dashboard | Homo Sapiens v2026.03</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="boot-screen" class="boot-screen">
+        <div class="boot-terminal">
+            <div id="boot-log" class="boot-log"></div>
+            <div class="boot-progress-container">
+                <div id="boot-progress" class="boot-progress"></div>
+            </div>
+        </div>
+    </div>
+
+    <main id="app" class="hidden">
+        <nav class="sidebar">
+            <div class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">Human-Spec</span>
+            </div>
+            <div class="nav-links">
+                <button class="nav-item active" data-layer="01_Hardware">
+                    <span class="nav-id">01</span> Hardware
+                </button>
+                <button class="nav-item" data-layer="02_Processing">
+                    <span class="nav-id">02</span> Processing
+                </button>
+                <button class="nav-item" data-layer="03_Versions">
+                    <span class="nav-id">03</span> Versions
+                </button>
+                <button class="nav-item" data-layer="04_Networking">
+                    <span class="nav-id">04</span> Networking
+                </button>
+                <button class="nav-item" data-layer="05_Maintenance">
+                    <span class="nav-id">05</span> Maintenance
+                </button>
+                <button class="nav-item" data-layer="Case-Studies">
+                    <span class="nav-id">CS</span> Case Studies
+                </button>
+            </div>
+            <div class="status-indicator">
+                <div class="pulse"></div>
+                <span>SYSTEM ONLINE</span>
+            </div>
+        </nav>
+
+        <section class="content">
+            <header class="top-bar">
+                <div class="breadcrumb">SYSTEM / <span id="current-layer">HARDWARE</span></div>
+                <div class="system-stats">
+                    <span>CPU: 12%</span>
+                    <span>MEM: 6.4GB</span>
+                </div>
+            </header>
+            <div id="doc-container" class="doc-viewer">
+                <div class="welcome-card">
+                    <h1>Initializing Specification Interface...</h1>
+                    <p>Select a layer from the sidebar to begin reverse engineering the human psyche.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="scanlines"></div>
+    <script src="script.js"></script>
+</body>
+</html>
