@@ -3,86 +3,90 @@
 # The-Human-Spec: Psikoloji Bilim dökümantasyonu 🧠☤
 
 > **Statü:** Kapsamlı Araştırma ve Arşiv Projesi
-> **Kapsam:** Teorik ve Karşılaştırmalı Psikoloji
+> **Kapsam:** Teorik, Klinik ve Karşılaştırmalı Psikoloji
 > **Motto:** "Zihni Anlamak, İnsanı Kavramaktır."
 
 ---
 
-## 📌 Vizyon ve Amaç
+## 📌 Vizyon ve Akademik Amaç
 
-**The-Human-Spec**, insan doğasını, davranışlarını ve zihinsel süreçlerini bilimsel bir derinlikle ele alan kolektif bir piskoloji külliyatıdır. Bu proje, piskoloji biliminin karmaşık kuramlarını, ampirik araştırmalarını ve klinik dinamiklerini yapılandırılmış bir düzende sunmayı amaçlar.
+**The-Human-Spec**, insan doğasını, davranışlarını ve zihinsel süreçlerini bilimsel bir derinlikle ele alan kolektif bir psikoloji külliyatıdır. Projemiz, psikoloji biliminin soyut kuramlarını, ampirik araştırmalarını ve karmaşık klinik dinamiklerini, modern bir dökümantasyon yapısıyla birleştirerek erişilebilir ve yapılandırılmış bir bilgi kaynağı sunmayı hedefler.
 
-Burada "insan", mekanik bir sistem değil; biyolojik, bilişsel, sosyal ve varoluşsal boyutları olan dinamik bir varlık olarak ele alınır.
+Burada insan, biyopsikososyal bir bütün olarak ele alınır; biyolojik temellerinden varoluşsal sancılarına kadar geniş bir spektrumda incelenir.
+
+---
+
+## 🔬 Bilimsel Metodoloji
+
+Bu repo üzerindeki çalışmalar şu üç temel sütun üzerine inşa edilmiştir:
+
+1.  **Kuramsal Sentez:** Klasik ve modern psikoloji ekollerinin doktrinleri, literatürdeki orijinal haliyle derlenir.
+2.  **Vaka ve Ampirik Analiz:** Teoriler, [Stanford Hapishane Deneyi](Case-Studies/Stanford_Prison.md) veya [Milgram Araştırması](Case-Studies/Milgram_Experiment.md) gibi kritik bilimsel çalışmalarla desteklenir.
+3.  **Klinik Perspektif:** Her kuramsal bilgi, pratik bir çıkarım veya terapötik bir bakış açısıyla ("Psikolojik Bakış") zenginleştirilir.
 
 ---
 
 ## 🏗️ Psikoloji Kültürü ve Yapısal Çerçeve
 
-Araştırmalarımız 7 ana uzmanlık alanında yapılandırılmıştır:
+Araştırma dökümantasyonumuz 7 ana çalışma alanında yapılandırılmıştır:
 
 ### 🧬 1. [Biyopsikoloji](01_Biyopsikoloji/)
-Davranışın biyolojik temelleri, sinir sistemi mekanizmaları ve nörotransmitterlerin psikolojik durumlar üzerindeki etkisi.
+*   **İnceleme:** Davranışın biyolojik temelleri ve nöral mekanizmalar.
+*   **Uzman Notu:** "Ruhsal dünyamız, biyokimyasal bir zeminde yükselir. Nörotransmitter dengesi bozulduğunda, en güçlü iradeler bile sarsılabilir."
 
 ### 🧠 2. [Bilişsel Psikoloji](02_Bilisel_Psikoloji/)
-Algı, dikkat, bellek yönetimi ve karar alma gibi içsel zihinsel süreçlerin mekanizması.
+*   **İnceleme:** Algı, bellek yönetimi ve bilgi işleme süreçleri.
+*   **Uzman Notu:** "Hatalı bilişler, çarpık gerçeklik algıları yaratır. Zihnin bilgi işleme tarzını anlamak, psikoterapinin en etkili araçlarından biridir."
 
 ### 🔄 3. [Gelişim Psikolojisi](03_Gelisim_Psikolojisi/)
-Anne karnından yaşlılığa kadar insanın zihinsel, duygusal ve sosyal gelişim evreleri.
+*   **İnceleme:** Yaşam boyu süren zihinsel ve sosyal evreler.
+*   **Uzman Notu:** "İnsan, bir sonuç değil; sürekli değişen bir süreçtir. Erken dönem kurulan bağlar, yetişkinliğin görünmez mimarıdır."
 
 ### 📡 4. [Sosyal Psikoloji](04_Sosyal_Psikoloji/)
-Bireyin grup içindeki davranışları, sosyal etkileşimler, tutumlar ve sosyal algı süreçleri.
+*   **İnceleme:** Grup dinamikleri, sosyal etki ve tutumlar.
+*   **Uzman Notu:** "Birey, sosyal bir ağın içinde var olur. Grubun etkisi, bireysel karakterin en güçlü yanlarını bile dönüştürebilir."
 
-### 🏥 5. [Klinik Psikoloji](05_Klikik_Psikoloji/)
-Ruhsal bozuklukların analizi, psikoterapötik müdahale yöntemleri ve psikolojik sağlığı koruma stratejileri.
+### 🏥 5. [Klinik Psikoloji](05_Klinik_Psikoloji/)
+*   **İnceleme:** Ruhsal bozukluklar ve psikoterapötik müdahaleler.
+*   **Uzman Notu:** "Terapi bir tamir süreci değil, eşlikçi bir farkındalık yolculuğudur. Her ruhsal sarsıntı, yeni bir denge arayışıdır."
 
 ### 🏛️ 6. [Psikoloji Ekolleri ve Kuramcılar](06_Psikoloji_Ekolleri/)
-Freud'dan Rogers'a, Piaget'den Frankl'a kadar psikoloji tarihine yön veren büyük düşünürler ve doktrinleri.
+*   **İnceleme:** [Freud](06_Psikoloji_Ekolleri/Sigmund_Freud.md), [Jung](06_Psikoloji_Ekolleri/Carl_Jung.md), [Rogers](06_Psikoloji_Ekolleri/Carl_Rogers.md) ve diğer büyük mimarlar.
+*   **Uzman Notu:** "Ekoller insanı farklı açılardan gösteren aynalardır; hiçbiri tam resmi tek başına yansıtamaz ama hepsi gerçeğin bir parçasıdır."
 
 ### 🧬 7. [Uzmanlık Alanları ve Güncel Yaklaşımlar](07_Uzmanlik_Alanlari/)
-Evrimsel psikoloji, pozitif psikoloji ve varoluşçu perspektifler gibi derinlikli analiz alanları.
+*   **İnceleme:** Evrimsel, Pozitif ve Varoluşçu perspektifler.
+*   **Uzman Notu:** "Yaşamın anlamı ve hayatta kalma güdüsü, insan ruhunun en derinindeki kadim motorlardır."
 
 ---
 
-## 📂 Yayın Yapısı
+## 👤 Kullanıcı Rehberi: Kimler İçin?
 
-```bash
-The-Human-Spec/
-├── 01_Biyopsikoloji/          # Nörobiyolojik temeller
-├── 02_Bilisel_Psikoloji/     # Zihinsel süreçlerin analizi
-├── 03_Gelisim_Psikolojisi/   # Yaşam boyu gelişim evreleri
-├── 04_Sosyal_Psikoloji/      # Sosyal etkileşim dinamikleri
-├── 05_Klinik_Psikoloji/      # Terapi ve müdahale yöntemleri
-├── 06_Psikoloji_Ekolleri/    # Büyük kuramcılar ve fikirleri
-├── 07_Uzmanlik_Alanlari/     # Özel alt dallar ve teoriler
-├── Case-Studies/             # Deneysel araştırmalar ve vaka analizleri
-├── dashboard/                 # İnteraktif görselleştirme araçları
-└── Psikoloji_Sozlugu.md      # Kapsamlı psikoloji terimleri sözlüğü
-```
+*   **Öğrenciler:** Psikoloji dersleri için yapılandırılmış, akademik temelli özetler ve vaka çalışmaları.
+*   **Akademisyenler/Araştırmacılar:** Farklı ekolleri karşılaştırmalı olarak inceleyebilecekleri bir doktrin arşivi.
+*   **Klinisyenler:** Terapi modellerinin kuramsal köklerine hızlı erişim sağlayan bir yardımcı referans.
+*   **Meraklılar:** İnsan doğasını anlamak için bilimsel bir başlangıç noktası.
 
 ---
 
-## 📜 Metodoloji ve Katkıda Bulunma
+## 📂 Yayın Yapısı ve Navigasyon
 
-Bu proje, piskoloji bilimini sistematik bir şekilde öğrenmek ve belgelemek isteyen uzmanlar ve meraklılar içindir. Katkı sağlarken şu prensiplere dikkat edilir:
-1.  **Bilimsel Terminoloji:** Kavramlar piskoloji literatüründeki akademik karşılıklarıyla anlatılmalıdır.
-2.  **Kuramsal Derinlik:** Sadece yüzeysel bilgi değil, kuramın kökeni ve etkisi detaylandırılmalıdır.
-3.  **Klinik Perspektif:** Konular mutlaka pratik veya klinik bir çıkarımla ("Psikolojik Bakış") sonlandırılmalıdır.
+Repo içindeki dosyalar, akademik hiyerarşiye uygun olarak numaralandırılmıştır. Hızlı erişim için [Psikoloji Terimleri Sözlüğü](Psikoloji_Sozlugu.md) sayfasını kullanabilirsiniz.
 
 ---
 
-## 🗺️ Araştırma Yol Haritası
+## 🗺️ Gelecek Araştırma Odakları
 
-- [x] Temel kuramsal altyapının oluşturulması.
-- [x] Klasik ekollerin ve kuramcıların dökümante edilmesi.
-- [ ] Klinik müdahale yöntemlerinin (BDT, Şema Terapi vb.) detaylandırılması.
-- [ ] Vaka çalışmalarının ampirik verilerle zenginleştirilmesi.
+- [ ] **Modern Terapiler:** Şema Terapi, Diyalektik Davranış Terapisi ve ACT modülleri.
+- [ ] **Psikometri:** Ölçme ve değerlendirme araçlarının kuramsal temelleri.
+- [ ] **Kültürel Psikoloji:** Toplumsal yapının piskolojik süreçler üzerindeki yerel etkileri.
 
 ---
 
 ## 🛡️ Önemli Uyarı (Disclaimer)
 
-`The-Human-Spec`, profesyonel bir piskolojik danışmanlık veya tıbbi teşhis aracı değildir. Buradaki dökümanlar eğitim ve araştırma amaçlıdır. Ruhsal sağlığınızla ilgili her türlü durumda lütfen lisanslı bir piskolog veya piskiyatriste başvurun.
+`The-Human-Spec`, profesyonel bir psikolojik danışmanlık veya tıbbi teşhis aracı değildir. Buradaki dökümanlar eğitim ve araştırma amaçlıdır. Ruhsal sağlığınızla ilgili her türlü durumda lütfen lisanslı bir klinik psikolog veya psikiyatriste başvurun.
 
 ---
 
-**"Zihnin derinliklerine yolculuk, kendini keşfetmektir."**
+**"Zihnin derinliklerine yolculuk, kendine giden en kısa yoldur."**
