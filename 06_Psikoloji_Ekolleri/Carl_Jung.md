@@ -1,7 +1,17 @@
-# Carl Jung: Analitik Psikoloji ve Kolektif Bilinçdışı 🌌☤
+# Carl Jung: Analitik Psikoloji Ekolü ve Kolektif Bilinçdışı 🌌☤
 
-> **Kuramsal Çerçeve:** Analitik Psikoloji
-> **Ana Odak:** Arketipler, Semboller ve Bireyleşme Süreci
+> **Ekol:** Analitik Psikoloji (Jungiyen Yaklaşım)
+> **Ana Doktrin:** Ruhun bütünleşmesi (Individuation) ve evrensel sembollerin (Arketipler) etkisi.
+
+---
+
+## 🏛️ Analitik Psikoloji Ekolü'nün Temel İlkeleri
+
+Jung'un kurduğu bu ekol, Freud'un cinsellik odaklı teorisinden ayrılarak daha geniş bir spiritüel ve sembolik perspektif sunar:
+
+1.  **Teleolojik Bakış:** İnsan sadece geçmişi tarafından değil, gelecekteki idealleri ve "ne olabileceği" (potansiyeli) tarafından da yönlendirilir.
+2.  **Ruhsal Enerji (Libido):** Jung'a göre libido sadece cinsel değil, genel bir yaşam enerjisidir.
+3.  **Zıtlıkların Birliği:** Ruh (Psyche), birbirine zıt kutuplardan (Erkek/Dişi, Işık/Gölge, Bilinç/Bilinçdışı) oluşur ve sağlık bu zıtlıkların dengelenmesidir.
 
 ---
 

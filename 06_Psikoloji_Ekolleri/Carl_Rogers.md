@@ -1,7 +1,17 @@
-# Carl Rogers: Danışan Odaklı Terapi ve Kendini Gerçekleştirme 🌱☤
+# Carl Rogers: İnsancıl Psikoloji Ekolü ve Danışan Odaklılık 🌱☤
 
-> **Kuramsal Çerçeve:** İnsancıl Psikoloji (Hümanistik Yaklaşım)
-> **Ana Odak:** Koşulsuz Kabul, Empati ve Benlik Bütünlüğü
+> **Ekol:** İnsancıl (Hümanistik) Psikoloji
+> **Ana Doktrin:** Bireyin içsel gelişim potansiyeli ve öznel deneyimin önceliği.
+
+---
+
+## 🏛️ İnsancıl Psikoloji Ekolü'nün Temel İlkeleri
+
+Davranışçılığa ve Psikanalize bir "Üçüncü Güç" olarak doğan bu ekol, insanı daha pozitif ve özgür bir varlık olarak ele alır:
+
+1.  **Bütüncül Bakış:** İnsan, parçalara (id, dürtü, tepki) indirgenemez; bir bütün olarak anlaşılmalıdır.
+2.  **Öznel Deneyim:** Önemli olan nesnel gerçeklik değil, bireyin dünyayı "nasıl algıladığıdır" (Fenomenoloji).
+3.  **Özgür İrade:** İnsan, kaderinin veya genlerinin kurbanı değil; seçim yapabilen özgür bir varlıktı.
 
 ---
 

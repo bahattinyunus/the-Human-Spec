@@ -1,7 +1,17 @@
-# Sigmund Freud: Psikanalizin Kurucusu ve Yapısal Model 🎩
+# Sigmund Freud: Psikanalitik Ekol ve Ruhsal Yapılanma 🎩☤
 
-> **Kuramsal Çerçeve:** Psikodinamik Yaklaşım
-> **Ana Odak:** Bilinçdışı Süreçler ve Erken Çocukluk Yaşantıları
+> **Ekol:** Psikanaliz (Psikodinamik Yaklaşım)
+> **Ana Doktrin:** Bilinçdışı determinizm ve ruhsal cihazın yapısal analizi.
+
+---
+
+## 🏛️ Psikanalitik Ekol'ün Temel İlkeleri
+
+Psikanaliz, modern psikolojinin en köklü ekollerinden biridir ve şu temel varsayımlara dayanır:
+
+1.  **Psikolojik Determinizm:** Hiçbir davranış tesadüf değildir; her eylemin bilinçdışında bir nedeni vardır.
+2.  **Çocukluk Odaklılık:** Karakterin temelleri yaşamın ilk 5-6 yılında atılır.
+3.  **Dinamik Yapı:** İnsan zihni sürekli bir çatışma (Id vs Süperego) alanıdır.
 
 ---
 

@@ -1,7 +1,17 @@
-# B.F. Skinner: Davranışçılık ve Edimsel Koşullanma ⌨️☤
+# B.F. Skinner: Davranışçı Ekol ve Davranış Analizi ⌨️☤
 
-> **Kuramsal Çerçeve:** Radikal Davranışçılık
-> **Ana Odak:** Gözlemlenebilir Davranışlar ve Çevresel Pekiştireçler
+> **Ekol:** Davranışçılık (Behaviorism)
+> **Ana Doktrin:** Davranışın çevresel sonuçlar (ödül/ceza) tarafından şekillendirilmesi.
+
+---
+
+## 🏛️ Davranışçı Ekol'ün Temel İlkeleri
+
+Davranışçılık, zihinsel süreçlerden ziyade gözlemlenebilir verilere odaklanarak psikolojiyi pozitif bir bilim dalı olarak konumlandırır:
+
+1.  **Tabula Rasa:** İnsan zihni doğuştan boş bir levhadır; davranışlar çevresel etkileşimle öğrenilir.
+2.  **Gözlemlenebilirlik:** Sadece dışarıdan ölçülebilen ve gözlemlenebilen tepkiler bilimsel analizin konusudur.
+3.  **Öğrenme Odaklılık:** Her türlü karmaşık davranış, basit uyarıcı-tepki bağlarının birleşimidir.
 
 ---
 
