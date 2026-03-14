@@ -36,5 +36,10 @@ Bireyin kendi içindeki çatışan yönleri (Işık ve Gölge gibi) fark edip on
 
 ---
 
+## 🌌 Baba Raconu
+"Kendi karanlığına bakmayan adam, başkasının davasına ışık tutamaz. Racon, gölgenle el sıkışmaktır. İçeride kimsen yoksa, dışarıda esamin okunmaz."
+
+---
+
 ## 🔍 Psikolojik Bakış
 "Kendi gölgesiyle yüzleşmeyen birey, hayatına yön veren karanlığı 'kader' sanır. Ruhsal sağlık, bastırılmış olanı yok etmek değil, onu bilince getirip bütünlüğe dahil etmektir."

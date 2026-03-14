@@ -46,5 +46,10 @@ Ego, çatışma ve anksiyete (kaygı) durumlarında ruhsal dengeyi korumak için
 
 ---
 
+## 🎩 Baba Raconu
+"Bilinçdışı her zaman kazanır. Sen istediğin kadar masaya yumruğunu vur, id alttan sırıtır. Bu işin raconu, o sırıtan yüzle yüzleşmektir."
+
+---
+
 ## 🔍 Psikolojik Bakış
 "Rüyalar, bilinçdışının gizli kapılarıdır. Onların analizi, bireyin bastırılmış çatışmalarını ve erken çocukluk dönemi izlerini anlamak için eşsiz bir klinik veri sunar."

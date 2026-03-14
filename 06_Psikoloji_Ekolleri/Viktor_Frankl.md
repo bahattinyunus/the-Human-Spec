@@ -25,5 +25,10 @@ Anlamdan yoksun bir yaşam, bireyi 'varoluşsal boşluğa' ve bunun sonucunda de
 
 ---
 
+## ⚓ Baba Raconu
+"Anlamı olmayan adamın davası da olmaz. Hayat sana ne verirse versin, senin ona ne cevap verdiğin raconu belirler. Dik dur, anlamını bul."
+
+---
+
 ## 🔍 Psikolojik Bakış
 "Yaşamdan ne beklediğimiz değil, yaşamın bizden ne beklediği asıl sorudur. İnsan, kendi varoluşunun sorumluluğunu alarak ve her koşulda bir anlam bularak ruhsal özgürlüğüne kavuşur."

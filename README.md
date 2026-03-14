@@ -26,6 +26,28 @@ Bu repo üzerindeki çalışmalar şu üç temel sütun üzerine inşa edilmişt
 
 ---
 
+## ⚖️ Psikoloji Raconu
+
+Bu proje sadece bir dökümantasyon değil, aynı zamanda piskoloji dünyasının yazısız kanunlarını ve ağır toplarını tanıma rehberidir. Zihnin derinliklerine inmek, belli bir disiplin ve "racon" gerektirir.
+
+👉 **[Psikoloji Raconu: Zihnin Gayrimeşru Yasaları](Psikoloji_Raconu.md)**
+
+---
+
+## 🏛️ Babaların Divanı: Kuramcıların Ağırlığı
+
+Psikoloji biliminin mimarları olan "Babalar", insan ruhunun derinliklerinde kendi izlerini bırakmışlardır. Divanın baş köşesinde oturanların sözü, bu projede kanun hükmündedir.
+
+| Baba | Racon (Temel Doktrin) | Makam |
+| :--- | :--- | :--- |
+| **Sigmund Freud** | "Bilinçdışı her zaman kazanır." | [Psikanaliz](06_Psikoloji_Ekolleri/Sigmund_Freud.md) |
+| **Carl Jung** | "Kendi karanlığına bakmayan, ışığı göremez." | [Analitik Psikoloji](06_Psikoloji_Ekolleri/Carl_Jung.md) |
+| **Viktor Frankl** | "Anlamı olmayan hayat, boş bir mermidir." | [Logoterapi](06_Psikoloji_Ekolleri/Viktor_Frankl.md) |
+| **Alfred Adler** | "Yükseklik korkusu olan, aşağılık kompleksini yenemez." | [Bireysel Psikoloji](06_Psikoloji_Ekolleri/Alfred_Adler.md) |
+| **Abraham Maslow** | "Kendini gerçekleştirmeyen adam, yarımdır." | [Hümanist Yaklaşım](06_Psikoloji_Ekolleri/Abraham_Maslow.md) |
+
+---
+
 ## 🏗️ Psikoloji Kültürü ve Yapısal Çerçeve
 
 Araştırma dökümantasyonumuz 7 ana çalışma alanında yapılandırılmıştır:
