@@ -69,8 +69,18 @@ Araştırma dökümantasyonumuz 7 ana çalışma alanında yapılandırılmışt
 *   **Uzman Notu:** "Birey, sosyal bir ağın içinde var olur. Grubun etkisi, bireysel karakterin en güçlü yanlarını bile dönüştürebilir."
 
 ### 🏥 5. [Klinik Psikoloji](05_Klinik_Psikoloji/)
-*   **İnceleme:** Ruhsal bozukluklar ve psikoterapötik müdahaleler.
+*   **İnceleme:** Ruhsal bozukluklar ve psikoterapötik müdahaleler (Örn: [Şema Terapi](05_Klinik_Psikoloji/Sema_Terapi.md)).
 *   **Uzman Notu:** "Terapi bir tamir süreci değil, eşlikçi bir farkındalık yolculuğudur. Her ruhsal sarsıntı, yeni bir denge arayışıdır."
+
+---
+
+## 📓 [Psikoloji Günlüğü](Psikoloji_Gunlugu.md)
+
+Bu repository'nin eğitim serüveni, öğrenme seansları ve klinik gelişim notları burada tutulur. Eğitim reponu olarak canlı kalmasını sağlayan temel mekanizmadır.
+
+---
+
+## 👤 Kullanıcı Rehberi: Kimler İçin?
 
 ### 🏛️ 6. [Psikoloji Ekolleri ve Kuramcılar](06_Psikoloji_Ekolleri/)
 *   **İnceleme:** [Freud](06_Psikoloji_Ekolleri/Sigmund_Freud.md), [Jung](06_Psikoloji_Ekolleri/Carl_Jung.md), [Rogers](06_Psikoloji_Ekolleri/Carl_Rogers.md) ve diğer büyük mimarlar.
